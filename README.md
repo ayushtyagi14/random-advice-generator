@@ -1,2 +1,2 @@
 # Random Advice Generator
-(Random Advice Generator)[https://randomadvicegenerator.netlify.app/]
+[Random Advice Generator](https://randomadvicegenerator.netlify.app/)
